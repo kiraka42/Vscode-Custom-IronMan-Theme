@@ -1,1 +1,1 @@
-![img](https://github.com/kiraka42/Maze-Generator/Vscode-Custom-IronMan-Theme/blob/master/iron2.gif)
+![img](https://github.com/kiraka42/Vscode-Custom-IronMan-Theme/blob/master/iron2.gif)
